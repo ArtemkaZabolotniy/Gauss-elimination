@@ -29,7 +29,3 @@ Gaussian elimination works in two main phases:
 
 - Pivoting may or may not be implemented depending on the current code.
 - Numerical stability can vary based on the input data.
-
-## License
-
-Add a license section here if you plan to distribute the project publicly.
